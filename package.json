@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "🍪 Cookies and sessions for logging in",
   "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
   "dependencies": {},
   "repository": {
     "type": "git",
