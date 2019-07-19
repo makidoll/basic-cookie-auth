@@ -1,0 +1,20 @@
+{
+  "name": "basic-cookie-auth",
+  "version": "1.0.0",
+  "description": "🍪 Cookies and sessions for logging in",
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makitsune/basic-cookie-auth.git"
+  },
+  "author": "Maki",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/makitsune/basic-cookie-auth/issues"
+  },
+  "homepage": "https://github.com/makitsune/basic-cookie-auth#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
