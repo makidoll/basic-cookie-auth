@@ -10,7 +10,7 @@ var fs = require("fs");
 var express = require("express");
 var app = express();
 
-var auth = require("./BasicCookieAuth.js")({
+var auth = require("BasicCookieAuth")({
 	expressApp: app,
 
 	loginPath: "/login",
