@@ -1,6 +1,6 @@
 {
   "name": "basic-cookie-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🍪 Cookies and sessions for logging in",
   "main": "index.js",
   "scripts": {
